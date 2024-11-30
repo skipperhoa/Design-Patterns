@@ -1,5 +1,5 @@
 # Design-Patterns
 
-### Factory Method in Design Patterns using PHP
+### Factory Method Design Pattern Explained with PHP Examples
 
 [🚀 The acticle 🧑‍💻](https://hoanguyenit.com/factory-method-la-mot-trong-nhung-creational-design-patterns.html)
